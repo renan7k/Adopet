@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+      {
+        "name": "Tony Stark",
+        "email": "tony.stark@starkindustries.com",
+        "password": "IronMan2023"
+      },
+      {
+        "name": "Natasha Romanoff",
+        "email": "natasha.romanoff@shield.com",
+        "password": "BlackWidow@2023"
+      },
+      {
+        "name": "Thor Odinson",
+        "email": "thor.odinson@asgard.com",
+        "password": "Mjolnir!123"
+      },
+      {
+        "name": "Bruce Banner",
+        "email": "bruce.banner@avengers.com",
+        "password": "HulkSmash2023"
+      },
+      {
+        "name": "Stephen Strange",
+        "email": "stephen.strange@sanctums.com",
+        "password": "EyeofAgamotto!"
+      },
+      {
+        "name": "Wanda Maximoff",
+        "email": "wanda.maximoff@avengers.com",
+        "password": "ScarletWitch2023"
+      }
+    ]
+  }
