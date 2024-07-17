@@ -1,15 +1,8 @@
 <h1 align="center"> Testes E2E com Cypress</h1>
 Este repositório contém os testes automatizados do curso  'automatização de testes E2E com Cypress'
 
-<h2>Pré-requisitos</h2>
-Para fazer este curso, você precisará ter:
-
-* Node.js instalado
-* Um editor de código
-* Conhecimento básico de JavaScript
-
-<h2>Como usar</h2>
-Para usar o projeto do curso, siga estas etapas:
+<h2>Configurando ambiente</h2>
+Para configura o projeto, siga estas etapas:
 
 * Clone o repositório para o seu computador
 * Instale as dependências com npm install
